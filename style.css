@@ -4,6 +4,12 @@
   text-align: center;
 }
 
+body {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(135deg, orange, #ffffff, #17ff68);
+}
+
 h1 {
   background-color: #081b31;
   color: #ffffff;
